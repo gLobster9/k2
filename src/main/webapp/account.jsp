@@ -16,7 +16,7 @@
 </head>
 <body>
 	<div class="header">
-		<jsp:include page="header.jsp"/>
+		<jsp:include page="header.jsp"/> 
 	</div>
 	
 	<div class="test">
